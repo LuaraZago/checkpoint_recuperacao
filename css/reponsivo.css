@@ -1,0 +1,30 @@
+@media (max-width:426px){
+    header{
+        height: 150px;
+       
+    }
+    #logo img{
+        width: 120px;
+        height: 80px;
+    }
+nav ul{
+    flex-direction: column;
+}
+#texto-banner{
+    flex-direction: column;
+
+}
+#p-banner{
+    width: 300px;
+    padding: 20px;
+}
+/* #div-filmes{
+ margin-top: 50px;
+} */
+.filmes{
+    width: 173px;
+    height: 530px;
+    row-gap: 10px;
+}
+
+}

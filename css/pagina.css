@@ -73,19 +73,35 @@ nav ul li{
     
 }
 #titulo{
-display: flex;
+    width: 100%;
+    display: flex;
+    
 
-}
+
+} 
 
 #titulo img{
-    width: 40%;
+    width: 30%;
     height: 40%;
+    
 
 
 }
+#conteudo_p {
+    width: 90%;
+    
+padding: 1%;
+
+
+}
+
 #diretor{
+    width: 100%;
+    height: 20%;
     display:flex;
     justify-content: space-evenly;
+    align-items: center;
+
     
 }
 #video{
@@ -94,7 +110,7 @@ display: flex;
 
 }
 footer{
-    background-color: #ffff;
+    background-color:antiquewhite;
     width: 100%;
     height: 100%;
     display: flex;
